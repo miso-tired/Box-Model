@@ -6,11 +6,35 @@ nav ul {
     padding-left: 0px;
 }
 
+nav ul li {
+    list-style: none;
+}
+
 main {
     width: 70%;
     border: 5px burlywood;
     border-style: dashed;
     padding: 1em 2em;
     background-color: aliceblue;
-    margin: 0 auto;
+    margin: 2em auto;
+}
+
+main section {
+    width: 45%;
+    display: inline-block;
+    border: 3px solid blanchedalmond;
+    padding: 1em;
+    margin-inline-start: 5px;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+p, span {
+    
+}
+
+header, footer {
+    background: black;
+    color: white;
+    padding: 1em;
 }
