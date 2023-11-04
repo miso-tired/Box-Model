@@ -1,7 +1,12 @@
+body {
+    margin: 0;
+}
+
 nav ul {
     padding-left: 0px;
 }
 
 main {
     width: 70%;
+    border: 2px dashed red;
 }
