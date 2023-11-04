@@ -8,7 +8,9 @@ nav ul {
 
 main {
     width: 70%;
-    border: 3px red;
-    border-style: double;
+    border: 5px burlywood;
+    border-style: dashed;
     padding: 1em 2em;
+    background-color: aliceblue;
+    margin: 0 auto;
 }
